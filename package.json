@@ -1,0 +1,23 @@
+{
+  "name": "expapp",
+  "version": "1.0.0",
+  "description": "express by vikas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikas148/express.git"
+  },
+  "author": "vikas bairwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikas148/express/issues"
+  },
+  "homepage": "https://github.com/vikas148/express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0"
+  }
+}
